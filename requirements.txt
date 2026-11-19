@@ -1,0 +1,2 @@
+# Install from the repository root, including notebook and plotting dependencies.
+-e .[demo]
